@@ -1,0 +1,4 @@
+n = int(raw_input(“enter a number”))
+for num in range(n)
+print num
+
