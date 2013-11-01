@@ -1,0 +1,8 @@
+def ispalindrome(n):
+	n = str()
+	len(n)
+
+if __name__=='__main__':
+	n = raw_input("write a palindrome: ")
+
+	ispalindrome(n)
